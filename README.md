@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://app.daily.dev/saragirard"><img src="https://github.com/saragirard3/saragirard3/blob/master/devcard.svg" width="400" alt="Sara Girard's Dev Card"/></a>
+<a href="https://app.daily.dev/saragirard"><img src="https://github.com/saragirard3/saragirard3/devcard.svg" width="400" alt="Sara Girard's Dev Card"/></a>
