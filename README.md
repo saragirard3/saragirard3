@@ -15,4 +15,4 @@
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://app.daily.dev/saragirard"><img src="https://github.com/saragirard3/saragirard3/main/devcard.svg" width="400" alt="Sara Girard's Dev Card"/></a>
+<a href="https://app.daily.dev/saragirard"><img src="https://github.com/saragirard3/saragirard3/blog/master/devcard.svg" width="400" alt="Sara Girard's Dev Card"/></a>
